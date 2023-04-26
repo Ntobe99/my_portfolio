@@ -88,8 +88,9 @@ Mathematics, Life Sciences, Physical Sciences, Life Orientation, Geography,Engli
    <div class="card text-bg-secondary mb-3" style="max-width: 18rem; background-color: plum!important;">
   <div class="card-header">HTML</div>
   <div class="card-body">
-    <h5 class="card-title"><i class="fa-brands fa-html5 fa-2xl" style="color: yellow;"></i></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title"><i class="fa-brands fa-html5 fa-2xl" style="color: #ff6600; "></i></h5>
+    <p class="card-text">
+</p>
   </div>
 </div>
 </div>
@@ -98,7 +99,7 @@ Mathematics, Life Sciences, Physical Sciences, Life Orientation, Geography,Engli
   <div class="card-header">css</div>
   <div class="card-body">
     <h5 class="card-title"><i class="fa-brands fa-css3 fa-2xl" style="color: #2b386e;"></i></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text"></p>
   </div>
 </div>
 </div>
@@ -107,7 +108,7 @@ Mathematics, Life Sciences, Physical Sciences, Life Orientation, Geography,Engli
   <div class="card-header">JavaScript</div>
   <div class="card-body">
     <h5 class="card-title"><i class="fa-brands fa-js fa-2xl" style="color: #e1d33d;"></i></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text"></p>
   </div>
 </div>
 </div>
@@ -116,18 +117,18 @@ Mathematics, Life Sciences, Physical Sciences, Life Orientation, Geography,Engli
   <div class="card-header">NodeJs</div>
   <div class="card-body">
     <h5 class="card-title"><i class="fa-brands fa-node fa-2xl" style="color: #255b32;"></i></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text"></p>
   </div>
 </div>
 </div>
   </div>
   <div class="row">
     <div class="col gap-3">
-   <div class="card text-bg-secondary mb-3" style="max-width: 18rem;background-color: plum!important;">
+   <div class="card text-bg-secondary mb-3" style="max-width: 18rem;background-color: plum!important; ">
   <div class="card-header">VueJS</div>
   <div class="card-body">
     <h5 class="card-title"><i class="fa-brands fa-vuejs fa-2xl" style="color: #18491e;"></i></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text"></p>
   </div>
 </div>
 </div>
@@ -135,8 +136,10 @@ Mathematics, Life Sciences, Physical Sciences, Life Orientation, Geography,Engli
   <div class="card text-bg-dark mb-3 " style="max-width: 18rem;background-color: plum!important;">
   <div class="card-header">Bootstrap</div>
   <div class="card-body">
-    <h5 class="card-title"><i class="fa-brands fa-bootstrap fa-2xl"></i></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title"><i class="fa-brands fa-bootstrap fa-2xl" style="color: #2b386e;"></i></h5>
+    <p class="card-text">
+      
+    </p>
   </div>
 </div>
 </div>
@@ -144,17 +147,17 @@ Mathematics, Life Sciences, Physical Sciences, Life Orientation, Geography,Engli
   <div class="card text-bg-dark mb-3 " style="max-width: 18rem;background-color: plum!important;">
   <div class="card-header">MySql</div>
   <div class="card-body">
-    <h5 class="card-title"><i class="fa-solid fa-database fa-2xl"></i></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title"><i class="fa-solid fa-database fa-2xl" style="color:#0000FF;"></i></h5>
+    <p class="card-text"></p>
   </div>
 </div>
 </div>
 <div class="col gap-3">
   <div class="card text-bg-dark mb-3 " style="max-width: 18rem;background-color: plum!important;">
-  <div class="card-header">Git</div>
+  <div class="card-header">UI/UX Design</div>
   <div class="card-body">
-    <h5 class="card-title"><i class="fa-brands fa-git-alt fa-2xl"></i></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title"><i class="fa-brands fa-figma fa-2xl" style="color:black"></i></h5>
+    <p class="card-text"></p>
   </div>
 </div>
 </div>
@@ -165,6 +168,7 @@ Mathematics, Life Sciences, Physical Sciences, Life Orientation, Geography,Engli
 .resume{
   padding-top:6rem;
   min-height:100vh;
+  overflow-x: hidden;
 }
 .timeline {
   position: relative;

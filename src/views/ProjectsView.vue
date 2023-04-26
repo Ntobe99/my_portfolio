@@ -5,18 +5,20 @@
                     Check out some of my work
                 </h1>
             </div>
-        <div class="container" >
+            <div class="back">
+        <div class="container">
               <div class="card" style="width: 260px;height: 360px; margin: 10px;  background-color:#039f9b ;border-radius: 0px; box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;;" v v-for="item in projects">
                 <div class="card-body">
                     <img :src="item.image"  class="card-img-top" alt="..." style="border-radius: 0px; width: 100%;">
                   <h5 class="card-title bold">{{ item.name }}</h5>     
                   <div class=" d-grid gap-2 col-6 mx-auto">
-                  <a class="btn btn-dark" :href="item.netlify" target="_blank_">netlify</a>
+                  <a class="btn btn-dark" :href="item.netlify" target="_blank_">Live Link</a>
                   <a  class="btn btn-dark" :href="item.github" target="_blank_">github</a>
                 </div>
                   </div>
                 </div>
              </div>
+            </div>
      </div>
 
 </template>
@@ -42,10 +44,10 @@
                 image:'https://i.postimg.cc/vZFp6T0v/netflix-clone.png',
                 netlify:'https://dancing-rugelach-5d5235.netlify.app',
                 github:'https://github.com/Ntobe99/netflix'} ,
-               {name:" Personal portfolio", 
-                image:'https://i.postimg.cc/rsDv5r6f/Html-portfolio.png',
-                netlify:'https://nontobeko-portfolio.netlify.app/',
-                github:'https://github.com/Ntobe99/portfolio-updated'} ,
+               {name:"GadgetGeekCentral E-commerce website", 
+                image:'https://i.postimg.cc/prJWSbm1/GGC.png',
+                netlify:'',
+                github:'https://github.com/Ntobe99/CAPSTONE_PROJECT.git'} ,
                {name:"Sneaker Store", 
                 image:'https://i.postimg.cc/kMZrqf8z/Sneaker-store.png',
                 netlify:'https://lighthearted-tartufo-c9867d.netlify.app/',

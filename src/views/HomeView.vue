@@ -10,7 +10,7 @@
 										Full stack Developer
 									</p>
 									<div class='intro-btns' >		
-										<a href='https://docs.google.com/document/d/1beA_YXpkqd-MaCwAHsUs_1rgxSn-G5Hb/edit?usp=sharing&ouid=100303808536170313166&rtpof=true&sd=true' class='btn-custom section-toggle' target="_blank_" >
+										<a href='https://www.canva.com/design/DAFgcb3O8a8/-JeIQ1I_L58Ey_vkX2SWVA/edit?utm_content=DAFgcb3O8a8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' class='btn-custom section-toggle' target="_blank_" >
 											Download Cv
 										</a>	
 									</div>
